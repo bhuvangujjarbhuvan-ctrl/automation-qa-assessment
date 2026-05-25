@@ -21,4 +21,4 @@ Created an n8n workflow using:
 The workflow fetches cryptocurrency market data every hour, transforms the response, and validates price conditions automatically.
 
 ## Error Handling
-Workflow designed to avoid silent failures and support stable execution.
+Error handling was implemented using conditional workflow logic and safe execution flow to avoid silent failures.
